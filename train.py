@@ -1,0 +1,1 @@
+# model.compile(loss = [loss1,loss2], loss_weights = [l1,l2], ...)
