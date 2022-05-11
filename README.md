@@ -1,1 +1,1 @@
-# Mask-RCNN-Renew
+# NamNet
